@@ -10,8 +10,8 @@ Sometimes, fidgeting is necessary, and Ignix lets you do that. Ignix is a PCB-bu
 ![](https://github.com/vkunamneni1/Ignix/blob/4d3cd5cc5365889c4ba98323917d2d7b8c89949a/assets/Ignix_3D_SS.png)
 
 ## Features
-- LED that lights up based on potentiometer resistance 
-- DC Motor that buzzes based on potentiometer resistance
+- LED that lights up on button press
+- DC Motor that buzzes on button press
 - Adjustable light and buzz length
 - Musical images on front
 - Hack Club logo!
