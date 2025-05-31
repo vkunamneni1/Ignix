@@ -1690,7 +1690,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 76.2) (xy 100.33 76.2)
+			(xy 138.43 74.93) (xy 100.33 74.93)
 		)
 		(stroke
 			(width 0)
@@ -1830,7 +1830,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 90.17) (xy 138.43 76.2)
+			(xy 138.43 90.17) (xy 138.43 74.93)
 		)
 		(stroke
 			(width 0)
@@ -1890,6 +1890,16 @@
 	)
 	(wire
 		(pts
+			(xy 100.33 82.55) (xy 100.33 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c02659ee-14f4-499d-93ea-57be403c1643")
+	)
+	(wire
+		(pts
 			(xy 91.44 101.6) (xy 91.44 102.87)
 		)
 		(stroke
@@ -1937,16 +1947,6 @@
 			(type default)
 		)
 		(uuid "d708031e-d765-491b-a7d5-566cb071f27a")
-	)
-	(wire
-		(pts
-			(xy 100.33 83.82) (xy 100.33 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dcde19a8-5517-4036-ac10-e20f5f6c259f")
 	)
 	(wire
 		(pts
@@ -2797,7 +2797,7 @@
 	)
 	(symbol
 		(lib_id "Device:Battery_Cell")
-		(at 100.33 81.28 0)
+		(at 100.33 77.47 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2806,25 +2806,25 @@
 		(fields_autoplaced yes)
 		(uuid "fcec4e1b-210f-42e3-8eef-6f05b30fbeae")
 		(property "Reference" "BT1"
-			(at 104.14 78.1684 0)
+			(at 104.14 78.0414 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "Battery_Cell"
-			(at 104.14 80.7084 0)
+			(at 104.14 80.5814 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Battery:BatteryHolder_Keystone_3034_1x20mm"
-			(at 100.33 79.756 90)
+			(at 100.33 78.994 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2833,7 +2833,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 100.33 79.756 90)
+			(at 100.33 78.994 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2842,7 +2842,7 @@
 			)
 		)
 		(property "Description" "Single-cell battery"
-			(at 100.33 81.28 0)
+			(at 100.33 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
