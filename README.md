@@ -22,12 +22,11 @@ Sometimes, fidgeting is necessary, and Ignix lets you do that. Ignix is a PCB-bu
 - 1 10µF Capacitor
 - 1 LED
 - 1 DC Motor
-- 1 PNP Transistor
 - 1 NPN Transistor
-- 3 4.7kΩ Resistor
-- 1 47kΩ Resistor
+- 1 PNP Transistor
+- 3 4.7kΩ Resistors
 - 1 220Ω Resistor
-- 1 Potentiometer
+- 1 47kΩ Potentiometer
 - 1 Push Button
   
 slack: `@veds`
