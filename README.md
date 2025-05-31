@@ -15,6 +15,7 @@ Sometimes, fidgeting is necessary, and Ignix lets you do that. Ignix is a PCB-bu
 - DC Motor that buzzes on button press
 - Adjustable light and buzz length
 - Musical images on front
+- Schematic on back
 - Hack Club logo!
 
 ## BOM
