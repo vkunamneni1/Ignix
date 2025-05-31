@@ -3,11 +3,11 @@
 Sometimes, fidgeting is necessary, and Ignix lets you do that. Ignix is a PCB-built rhythm toy that lights up an LED and buzzes a motor with button presses, allowing users to tap out customizable light and haptic pulses (through the use of a potentiometer-controlled timer circuit).
 
 ## Schematic
-![](https://github.com/vkunamneni1/Ignix/blob/56633044210a2620396b2e7b856f2c83a5f9d52f/assets/IGNIX_SCHEM_SOLDER.png)
+![](https://github.com/vkunamneni1/Ignix/blob/6b719134bac63b5e0a7fe01cbdbc2e33e285f5c5/assets/IGNIX_SCHEM_SOLDER.png)
 
 ## PCB
-![](https://github.com/vkunamneni1/Ignix/blob/56633044210a2620396b2e7b856f2c83a5f9d52f/assets/IGNIX_PCB_SOLDER.png)
-![](https://github.com/vkunamneni1/Ignix/blob/56633044210a2620396b2e7b856f2c83a5f9d52f/assets/IGNIX_3D_SOLDER.png)
+![](https://github.com/vkunamneni1/Ignix/blob/6b719134bac63b5e0a7fe01cbdbc2e33e285f5c5/assets/IGNIX_PCB_SOLDER.png)
+![](https://github.com/vkunamneni1/Ignix/blob/6b719134bac63b5e0a7fe01cbdbc2e33e285f5c5/assets/IGNIX_3D_SOLDER.png)
 
 ## Features
 - Powered by a SINGLE CR2032 battery
